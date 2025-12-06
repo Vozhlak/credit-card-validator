@@ -1,0 +1,9 @@
+Lunar Bank,400000,499999
+Mars Credit Union,500000,599999
+Venus Express Bank,600000,699999
+Saturn Ring Financial,700000,799999
+Jupiter Trust,800000,899999
+Asteroid Miners Bank,900000,949999
+Galactic Core Union,950000,979999
+Orion Belt Credit,980000,989999
+Nebula Savings,990000,999999
